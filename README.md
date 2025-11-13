@@ -8,7 +8,7 @@ My name is Hadi Gunawan. I like to learn new things everyday
 
 #### Checkout my
 - Personal Site:  [https://hadi-projects.github.io/personal-site/#/profile](https://hadi-projects.github.io/personal-site/#/profile)
-- Portofolio: [https://www.figma.com/deck/VduiWxGnJsr9uiIwLHphVX/Porto?node-id=1-25&t=YZq1l87V1T7GtLjj-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/deck/VduiWxGnJsr9uiIwLHphVX/Porto?node-id=1-25&t=YZq1l87V1T7GtLjj-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+- Portofolio: [https://docs.google.com/presentation/d/1F7XAdPFeQem-d0xdLK0RQaX-UvsEk9zxlSFmJ_EkbuU/edit?usp=sharing](https://docs.google.com/presentation/d/1F7XAdPFeQem-d0xdLK0RQaX-UvsEk9zxlSFmJ_EkbuU/edit?usp=sharing)
 - Resume: [https://docs.google.com/document/d/1-X8peebLDH0Y5xyUyCmzPx_JTFdFmgDj8vUQxKviPmA/edit?usp=sharing](https://docs.google.com/document/d/1-X8peebLDH0Y5xyUyCmzPx_JTFdFmgDj8vUQxKviPmA/edit?usp=sharing)
 
 #### Tech Stack

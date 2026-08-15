@@ -7,7 +7,7 @@ My name is Hadi Gunawan. I like to learn new things everyday
 - 📫 How to reach me: jtgunawan007@gmail.com
 
 #### Checkout my
-- Personal Site:  [https://hadi-projects.github.io/personal-site/#/profile](https://hadi-projects.github.io/personal-site/#/profile)
+- Personal Site:  [https://hadiyahku.web.id/](https://hadiyahku.web.id/)
 - Portofolio: [https://docs.google.com/presentation/d/1F7XAdPFeQem-d0xdLK0RQaX-UvsEk9zxlSFmJ_EkbuU/edit?usp=sharing](https://docs.google.com/presentation/d/1F7XAdPFeQem-d0xdLK0RQaX-UvsEk9zxlSFmJ_EkbuU/edit?usp=sharing)
 - Resume: [https://docs.google.com/document/d/1-X8peebLDH0Y5xyUyCmzPx_JTFdFmgDj8vUQxKviPmA/edit?usp=sharing](https://docs.google.com/document/d/1-X8peebLDH0Y5xyUyCmzPx_JTFdFmgDj8vUQxKviPmA/edit?usp=sharing)
 
